@@ -5,7 +5,7 @@ mhs.sociallycompute.io has address 204.185.83.15 *production*
 mhs-sand.sociallycompute.io 204.185.83.16 *sandbox*
 
 # How the servers and the various parts below are working together is illustrated here in this diagram:
-![Picture missing](./overview-notes.jpeg)
+![Picture missing](overview-notes.jpeg)
 
 
 # Code
