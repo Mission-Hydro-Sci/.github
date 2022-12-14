@@ -27,6 +27,9 @@ https://github.com/Mission-Hydro-Sci/mhs-utils.git
 1. **pushevents.py: Sends test data to the Kafka server** See "mhs-utils" GitHub Repository
 2. **postevents.py: Sends test data to the event logger** See "mhs-utils" GitHub Repository
 
+## Mongo Utilities
+https://github.com/Mission-Hydro-Sci/mhs-mongo-utils
+
 ## MHS Analytics Website
 To visit the site:  http://mhs-dev.sociallycompute.io/teachers
 You have to go to the subdirectory of teachers to see a list of the teachers right now. As shown above.
